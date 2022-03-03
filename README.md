@@ -1,13 +1,11 @@
-### Hi there 👋
+# Career
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mitslll)](https://solved.ac/mitslll)
+## Lunit / Research Engineer @ AIPlatform Team
+- 2021.01 ~ Current
+- Researched & developed automated productization platform for AI
 
+## Cognex Deep Learning Lab  / Software Engineer @ CoreDev Team
+- 2019.01 ~ 2021.01 ( 2 years )
+- Developed Deep-Learning based Machine Vision Solution 
 
-### My Github Stats
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=dongyi-kim&theme=react&show_icons=true" height="180px">
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyi-kim&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
-</a>
+[You can see my resume on this link](https://docs.google.com/document/d/1odfH0H_wM1XfiPy1S59zjMGwRyo7DsJShd9nWH3DB70/edit?usp=sharing)
